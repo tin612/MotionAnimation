@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.screenshots     = "https://github.com/lkzhao/MotionAnimation/blob/master/imgs/demo.gif?raw=true"
   s.license          = 'MIT'
   s.author           = { "Luke" => "lzhaoyilun@gmail.com" }
-  s.source           = { :git => "https://github.com/lkzhao/MotionAnimation.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/tin612/MotionAnimation.git", :tag => s.version.to_s }
   
   s.ios.deployment_target  = '9.2'
   s.ios.frameworks         = 'UIKit', 'Foundation'
